@@ -1,2 +1,2 @@
 # APK Where
-Website, created for testing.
+Website, A very basic site created for testing.
